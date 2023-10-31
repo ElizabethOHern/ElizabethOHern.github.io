@@ -2,4 +2,4 @@
 
 Here are some photos I have taken.
 
-![](Files/Movie.mp4)
+<img src="Files/FlappyBirdAI_Gen6.mp4" width="500">
